@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm [Your Name]<br>🚀 Full-Stack Developer | Java Enthusiast | UI/UX Designer<br><br>      🔹 Passionate about building scalable web applications and intuitive user experiences.<br>      🔹 Skilled in JavaScript, React, Node.js, Java, and UI/UX Designing.<br><br>📸 My hobbies include fitness, acting, music and coding.<br>💡 Always exploring new technologies and open to collaboration. Let's connect and build something amazing!
+👋 Hi, I'm Soumyadeep Bhattacharya<br>🚀 Full-Stack Developer | Java Enthusiast | UI/UX Designer<br><br>      🔹 Passionate about building scalable web applications and intuitive user experiences.<br>      🔹 Skilled in JavaScript, React, Node.js, Java, and UI/UX Designing.<br><br>📸 My hobbies include fitness, acting, music and coding.<br>💡 Always exploring new technologies and open to collaboration. Let's connect and build something amazing!
 
 
 ## 🌐 Socials:
